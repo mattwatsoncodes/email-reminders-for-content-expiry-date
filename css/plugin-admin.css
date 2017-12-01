@@ -1,0 +1,23 @@
+.c-email-reminder {
+	background-color: #fff;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.c-email-reminder .field-input label,
+.c-email-reminder .field-select label,
+.c-email-reminder .field-textarea label {
+	font-weight: bold;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+.c-email-reminder .field-input input[type="text"],
+.c-email-reminder .field-select select,
+.c-email-reminder .field-textarea textarea {
+	width: 100%;
+}
+
+.c-email-reminder .field {
+	margin-bottom: 20px;
+}
